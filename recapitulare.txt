@@ -166,7 +166,6 @@
 6. GIT: Clone a repository
 6. GIT: Create a ignoring file and check if it works
 6. GIT: Create and switch to another branch, then merge them
-6. GIT: How to escape from editing comment
 8. LINUX: Make a directory
 8. LINUX: Make a directory in a particular destination
 8. LINUX: Make multiple directories
