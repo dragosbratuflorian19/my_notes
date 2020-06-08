@@ -1,0 +1,64 @@
+Hoes does Python run a script?
+Where is bytecode stored and under what file format?
+What is the PVM?
+What are frozen binaries?
+How do you store the output of a python script?
+Three steps to turn a python file into executable.
+What is polymorphism?
+Print (3.14159, -42) as '3.14 | -0042'.
+Use raw strings to define a windows path.
+Encode a string into utf8 and utf16.
+Split a string using regex(split after 2 characters).
+Write a list comprehension to het the diagonal of a matrix.
+Write a list comprehension to sum the elements of each row of a matrix
+Write a number in octa/hexa/complex and binary.
+Write 3 numbers in hexa/octa and binary using f"{:}{:}{:}"
+Write a number as e^.
+Which is the difference between floor and trunc?
+What is garbadge collection?
+How do you check how many references an object has?
+Print 1234 as 'integers: ...1234...1234  ...001234'.
+Print 296999.2567 as '296,999.26'.
+Merge 2 dictionaries.
+Create a dictionary with default values.
+Create a comprehensive dictionary using zip.
+Create a named tuple.
+Store a file object inside a pickle. Load the data. Read it's contents.
+Store a file object inside a json file. Load the data. Read it's contents.
+Make an assertion.
+What does += means in lists.
+Createa a temporary print stream into a file.
+Use reduce.
+Make a triple comprehension.
+Using comprehension, go through a matrix and change each element.
+Search for files in directories.
+Create a function that traces the activation of another function.
+What is a namespace?
+How to call a module 2nd time?
+Use abstract classes (shapes and squares).
+Use OOP: create the bakery example (employee:chef, server, robot; customer, oven, pizzashop, order)
+Use Pseudo_private variables.
+Use Bound or Unbound variables.
+Create an object factory.
+Using argv
+Joining elements of a list with a special character
+Getting an item from a dictionary without the program yelling at us if it doesnt exist
+Create and and delete one folder
+Display all .txt files from one folder
+Use super from classes
+Create a nice table
+Create a function with args and kwargs
+Use map
+Use filter
+Use lambda
+Use the next magic functions within a class: __str__, __len__, __del__ 
+Use __name__ __ main__ functions
+Run a UNITTEST
+Create a decorator
+Use pdb module to debug
+Write prime numbers algorithm ( one liner ! )
+Unpack 7 values but use only the 3 values from the middle
+Create __add__ and __mul__ functions to make operations on objects
+Add two dictionaries
+Sort 2 objects
+Open big files in chunks

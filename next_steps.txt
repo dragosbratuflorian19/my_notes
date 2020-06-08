@@ -1,4 +1,0 @@
-1. Machine learning theory
-2. Machine learning examples
-4. Multi threading
-5. Big Data: Kafka/Spark/Hadoop

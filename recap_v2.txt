@@ -1,4 +1,53 @@
-
+1. Python: Hoes does Python run a script?
+1. Python: Where is bytecode stored and under what file format?
+1. Python: What is the PVM?
+1. Python: What are frozen binaries?
+1. Python: How do you store the output of a python script?
+1. Python: Three steps to turn a python file into executable.
+1. Python: What is polymorphism?
+1. Python: Print (3.14159, -42) as '3.14 | -0042'.
+1. Python: Use raw strings to define a windows path.
+1. Python: Encode a string into utf8 and utf16.
+1. Python: Split a string using regex(split after 2 characters).
+1. Python: Write a list comprehension to het the diagonal of a matrix.
+1. Python: Write a list comprehension to sum the elements of each row of a matrix
+1. Python: Write a number in octa/hexa/complex and binary.
+1. Python: Write 3 numbers in hexa/octa and binary using f"{:}{:}{:}"
+1. Python: Write a number as e^.
+1. Python: Which is the difference between floor and trunc?
+1. Python: What is garbadge collection?
+1. Python: How do you check how many references an object has?
+1. Python: Print 1234 as 'integers: ...1234...1234  ...001234'.
+1. Python: Print 296999.2567 as '296,999.26'.
+1. Python: Merge 2 dictionaries.
+1. Python: Create a dictionary with default values.
+1. Python: Create a comprehensive dictionary using zip.
+1. Python: Create a named tuple.
+1. Python: Store a file object inside a pickle. Load the data. Read it's contents.
+1. Python: Store a file object inside a json file. Load the data. Read it's contents.
+1. Python: Make an assertion.
+1. Python: What does += means in lists.
+1. Python: Createa a temporary print stream into a file.
+1. Python: Use reduce.
+1. Python: Make a triple comprehension.
+1. Python: Using comprehension, go through a matrix and change each element.
+1. Python: Search for files in directories.
+1. Python: Create a function that traces the activation of another function.
+1. Python: What is a namespace?
+1. Python: How to call a module 2nd time?
+1. Python: Use abstract classes (shapes and squares).
+1. Python: Use OOP: create the bakery example (employee:chef, server, robot; customer, oven, pizzashop, order)
+1. Python: Use Pseudo_private variables.
+1. Python: Use Bound or Unbound variables.
+1. Python: Create an object factory.
+1. Python: Using argv
+1. Python: Joining elements of a list with a special character
+1. Python: Getting an item from a dictionary without the program yelling at us if it doesnt exist
+1. Python: Create and and delete one folder
+1. Python: Display all .txt files from one folder
+1. Python: Use super from classes
+1. Python: Create a nice table
+1. Python: Create a function with args and kwargs
 1. Python: Use map
 1. Python: Use filter
 1. Python: Use lambda
